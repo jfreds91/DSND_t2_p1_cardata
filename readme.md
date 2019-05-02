@@ -1,5 +1,6 @@
 # DSND_t2_p1: cardata
 Jesse Fredrickson
+
 5/2/2019
 
 ## Motivation
@@ -7,6 +8,7 @@ This project aims to clean and analyze a dataset of 30,000+ unique cars/trims fr
 
 ## Files
 **Car_Data_Explore.ipynb:** In this Ipython notebook file, I read in the data and perform all of my analysis
+
 **fullspecs.csv:** This is the target dataset, taken from www.reddit.com/r/datasets
 ## Results
-In the Ipython notebook, I read in the .csv data using pandas, and analyzed it using regex, matplotlib, seaborn, numpy, and sklearn. In order to recreate my findings, simply download both of the files above, and run the cells in the notebook. 
+In the Ipython notebook, I read in the .csv data using pandas, and analyzed it using regex, matplotlib, seaborn, numpy, and sklearn. In order to recreate my findings, simply download both of the files above, and run the cells in the notebook.
