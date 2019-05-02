@@ -11,4 +11,4 @@ This project aims to clean and analyze a dataset of 30,000+ unique cars/trims fr
 
 **fullspecs.csv:** This is the target dataset, taken from www.reddit.com/r/datasets
 ## Results
-In the Ipython notebook, I read in the .csv data using pandas, and analyzed it using regex, matplotlib, seaborn, numpy, and sklearn. In order to recreate my findings, simply download both of the files above, and run the cells in the notebook.
+In the Ipython notebook, I read in the .csv data using pandas, and analyzed it using regex, matplotlib, seaborn, numpy, and sklearn. In order to recreate my findings, simply download both of the files above, and run the cells in the notebook. A high level walkthrough can be found at https://medium.com/@jessefredrickson/are-modern-cars-as-efficient-as-we-like-to-think-a-brief-data-science-approach-c7dd91c22f9b
